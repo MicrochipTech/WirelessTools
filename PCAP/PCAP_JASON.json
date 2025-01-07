@@ -37,7 +37,7 @@
                       "metaDataVersion": "1.0.0",
                       "type": "url",
                       "data": {
-                        "url": "https://github.com/MicrochipTech/WirelessTools/PCAP/release_notes",
+                        "url": "https://github.com/MicrochipTech/WirelessTools/blob/main/PCAP/release_notes.md",
                         "name": "Microchip.com"
                       }
                     }
@@ -75,7 +75,7 @@
                       "metaDataVersion": "PCAP Utility x64(MacOS) 1.0.0",
                       "type": "url",
                       "data": {
-						  "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchip-pcap-utility-x64(macos).zip",
+						              "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchip-pcap-utility-x64(macos).zip",
                           "name": "Microchip PCAP Utility Tool x64(MacOS) 1.0.0"
                           }
                       }

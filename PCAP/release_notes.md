@@ -9,6 +9,8 @@
 ## Microchip PCAP Utility (Windows) **v1.1.0** and Release Date **2024-9-20**
 ## Microchip PCAP Utility (Linux)   **v1.1.0** and Release Date **2024-9-20**
 
+### For more information, Please refer to the PCAP Utility website (https://www.microchip.com/en-us/software-library/wireless-packet-capture-utility)
+
 ### Supported Devices
 - RZ600 with RF231 Radio
 - RZ600 with RF212 Radio

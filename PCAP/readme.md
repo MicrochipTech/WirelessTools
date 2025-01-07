@@ -12,3 +12,5 @@
 
 ## Running the Application 
  To run the tool refer the user guide Section-5: Getting Started with Microchip PCAP Utility Tool https://ww1.microchip.com/downloads/aemDocuments/documents/WSG/ProductDocuments/UserGuides/Microchip-PCAP-Utility-Tool-User-Guide-DS50003683.pdf
+ 
+## For more information, Please refer to the PCAP Utility website (https://www.microchip.com/en-us/software-library/wireless-packet-capture-utility)
