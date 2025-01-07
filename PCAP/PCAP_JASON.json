@@ -1,0 +1,88 @@
+{
+  "metaDataVersion": "1.0.0",
+  "category": "com.microchip.portal.softwareTools",
+  "content": {
+      "metaDataVersion": "1.0.0",
+      "name": "com.microchip.software-tools.pcap",
+      "version": "1.1.0",
+      "displayName": "Microchip PCAP Utility Tool",
+      "shortDescription": "Microchip PCAP Utility Tool connects the Wireshark Graphical User Interface (GUI) and the sniffer firmware running on the ZigBit® USB stick. The sniffer captures the packets based on the channel and channel page selection. Captured data is sent to Wireshark software to show the decoded packets on the GUI. The sniffer captures IEEE® 802.15.4, Zigbee® packets or custom protocol.",
+      "keywords": [
+          "pcap",
+          "sniffer",
+          "wireshark",
+          "IEEE 802.15.4",
+          "ZigBit® USB stick"
+      ],
+      "additionalData": {
+          "longDescription": {
+              "metaDataVersion": "1.0.0",
+              "category": "com.microchip.portal.longDescriptionRef",
+              "content": {
+                  "metaDataVersion": "1.0.0",
+                  "url": "https://ww1.microchip.com/downloads/aemDocuments/documents/WSG/ProductDocuments/UserGuides/Microchip-PCAP-Utility-Tool-User-Guide-DS50003683.pdf",
+                  "mimeType": "application/pdf"
+              }
+          },
+          "gettingMechanisms": {
+              "metaDataVersion": "1.0.0",
+              "category": "com.microchip.portal.toolsGettingMechanismsRef",
+              "content": {
+                "metaDataVersion": "1.0.0",
+                "openWith": [
+                  {
+                    "metaDataVersion": "1.0.0",
+                    "category": "com.microchip.portal.urlGettingMechanismRef",
+                    "content": {
+                      "metaDataVersion": "1.0.0",
+                      "type": "url",
+                      "data": {
+                        "url": "https://github.com/MicrochipTech/WirelessTools/PCAP/release_notes",
+                        "name": "Microchip.com"
+                      }
+                    }
+                  }
+                ],
+                "download": [
+                  {
+                    "metaDataVersion": "PCAP Utility Windows 1.1.0",
+                    "category": "com.microchip.portal.urlGettingMechanismRef",
+                    "content": {
+                      "metaDataVersion": "PCAP Utility Windows_1.1.0",
+                      "type": "url",
+                      "data": {
+                          "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchip-pcap-utility(windows).zip",
+                          "name": "Microchip PCAP Utility Tool Windows 1.1.0"
+                          }
+                      }
+                  },
+                  {
+                    "metaDataVersion": "PCAP Utility Linux 1.1.0",
+                    "category": "com.microchip.portal.urlGettingMechanismRef",
+                    "content": {
+                      "metaDataVersion": "PCAP Utility Linux 1.1.0",
+                      "type": "url",
+                      "data": {
+                          "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchippcap-utility(linux).zip",
+                          "name": "Microchip PCAP Utility Tool Linux 1.1.0"
+                          }
+                      }
+                  },				  
+                  {
+                    "metaDataVersion": "PCAP Utility x64(MacOS) 1.0.0",
+                    "category": "com.microchip.portal.urlGettingMechanismRef",
+                    "content": {
+                      "metaDataVersion": "PCAP Utility x64(MacOS) 1.0.0",
+                      "type": "url",
+                      "data": {
+						  "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchip-pcap-utility-x64(macos).zip",
+                          "name": "Microchip PCAP Utility Tool x64(MacOS) 1.0.0"
+                          }
+                      }
+                  }
+                ]
+              }
+            }
+      }
+  }
+}
