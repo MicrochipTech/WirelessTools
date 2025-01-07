@@ -15,13 +15,16 @@
           "ZigBit® USB stick"
       ],
       "additionalData": {
-          "longDescription": {
+		"longDescription": {
               "metaDataVersion": "1.0.0",
               "category": "com.microchip.portal.longDescriptionRef",
               "content": {
                   "metaDataVersion": "1.0.0",
-                  "url": "https://ww1.microchip.com/downloads/aemDocuments/documents/WSG/ProductDocuments/UserGuides/Microchip-PCAP-Utility-Tool-User-Guide-DS50003683.pdf",
-                  "mimeType": "application/pdf"
+                  "rawBaseReadmeUrl": "https://raw.githubusercontent.com/MicrochipTech/WirelessTools/1.0.0/PCAP/release_notes.md",
+                  "webBaseReadmeUrl": "https://github.com/MicrochipTech/WirelessTools/blob/1.0.0/PCAP/release_notes.md",
+                  "rawBaseUrl": "https://raw.githubusercontent.com/MicrochipTech/WirelessTools/1.0.0/",
+                  "webBaseUrl": "https://github.com/MicrochipTech/WirelessTools/blob/1.0.0/",
+                  "mimeType": "text/markdown"
               }
           },
           "gettingMechanisms": {
@@ -37,11 +40,23 @@
                       "metaDataVersion": "1.0.0",
                       "type": "url",
                       "data": {
-                        "url": "https://github.com/MicrochipTech/WirelessTools/blob/main/PCAP/release_notes.md",
-                        "name": "Microchip.com"
+                        "url": "https://github.com/MicrochipTech/WirelessTools/blob/1.0.0/PCAP/release_notes.md",
+                        "name": "Microchip.com - Release Notes"
                       }
                     }
-                  }
+                  },
+                  {
+                    "metaDataVersion": "1.0.0",
+                    "category": "com.microchip.portal.urlGettingMechanismRef",
+                    "content": {
+                      "metaDataVersion": "1.0.0",
+                      "type": "url",
+                      "data": {
+                        "url": "https://ww1.microchip.com/downloads/aemDocuments/documents/WSG/ProductDocuments/UserGuides/Microchip-PCAP-Utility-Tool-User-Guide-DS50003683.pdf",
+                        "name": "Microchip.com - User Guide"
+                      }
+                    }
+                  }				  
                 ],
                 "download": [
                   {
@@ -75,7 +90,7 @@
                       "metaDataVersion": "PCAP Utility x64(MacOS) 1.0.0",
                       "type": "url",
                       "data": {
-						              "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchip-pcap-utility-x64(macos).zip",
+						  "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchip-pcap-utility-x64(macos).zip",
                           "name": "Microchip PCAP Utility Tool x64(MacOS) 1.0.0"
                           }
                       }
