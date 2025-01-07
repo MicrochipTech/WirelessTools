@@ -60,10 +60,10 @@
                 ],
                 "download": [
                   {
-                    "metaDataVersion": "PCAP Utility Windows 1.1.0",
+                    "metaDataVersion": "1.0.0",
                     "category": "com.microchip.portal.urlGettingMechanismRef",
                     "content": {
-                      "metaDataVersion": "PCAP Utility Windows_1.1.0",
+                      "metaDataVersion": "1.0.0",
                       "type": "url",
                       "data": {
                           "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchip-pcap-utility(windows).zip",
@@ -72,10 +72,10 @@
                       }
                   },
                   {
-                    "metaDataVersion": "PCAP Utility Linux 1.1.0",
+                    "metaDataVersion": "1.0.0",
                     "category": "com.microchip.portal.urlGettingMechanismRef",
                     "content": {
-                      "metaDataVersion": "PCAP Utility Linux 1.1.0",
+                      "metaDataVersion": "1.0.0",
                       "type": "url",
                       "data": {
                           "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchippcap-utility(linux).zip",
@@ -84,10 +84,10 @@
                       }
                   },				  
                   {
-                    "metaDataVersion": "PCAP Utility x64(MacOS) 1.0.0",
+                    "metaDataVersion": "1.0.0",
                     "category": "com.microchip.portal.urlGettingMechanismRef",
                     "content": {
-                      "metaDataVersion": "PCAP Utility x64(MacOS) 1.0.0",
+                      "metaDataVersion": "1.0.0",
                       "type": "url",
                       "data": {
 						  "url": "https://www.microchip.com/content/dam/mchp/softwarelibrary/wireless-packet-capture-utility/microchip-pcap-utility-x64(macos).zip",
