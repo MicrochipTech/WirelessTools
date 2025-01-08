@@ -1,13 +1,11 @@
-![Microchip logo](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_logo.png)
-
 # Microchip PCAP Utility Release Notes
 - Microchip PCAP Utility Tool connects the Wireshark Graphical User Interface (GUI) and the sniffer firmware running on the ZigBit® USB stick. The sniffer captures the packets based on the channel and channel page selection. Captured data is sent to Wireshark software to show the decoded packets on the GUI. The sniffer captures IEEE® 802.15.4, Zigbee® packets or custom protocol.
 
 - This file contains release and version information for the Microchip PCAP Utility
 - which is used to capture/sniff IEEE 802.15.4 Frames ( 2.4 GHZ & Sub Ghz)
 
-## Microchip PCAP Utility (Windows) **v1.1.0** and Release Date **2024-9-20**
-## Microchip PCAP Utility (Linux)   **v1.1.0** and Release Date **2024-9-20**
+### Microchip PCAP Utility (Windows) **v1.1.0** and Release Date **2024-9-20**
+### Microchip PCAP Utility (Linux)   **v1.1.0** and Release Date **2024-9-20**
 
 ### For more information, Please refer to the PCAP Utility website https://www.microchip.com/en-us/software-library/wireless-packet-capture-utility
 
@@ -35,9 +33,9 @@
 ### Additional Notes
 - None
 
-## Microchip PCAP Utility (Windows) **v1.0.0** and Release Date **2024-4-**
-## Microchip PCAP Utility (Linux)   **v1.0.0** and Release Date **2024-4-18**
-## Microchip PCAP Utilityx64(MacOS) **v1.0.0** and Release Date **2024-5-13**
+### Microchip PCAP Utility (Windows) **v1.0.0** and Release Date **2024-4-18**
+### Microchip PCAP Utility (Linux)   **v1.0.0** and Release Date **2024-4-18**
+### Microchip PCAP Utilityx64(MacOS) **v1.0.0** and Release Date **2024-5-13**
 
 ### New Features
 - Initial version.
